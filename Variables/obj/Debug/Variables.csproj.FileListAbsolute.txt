@@ -1,0 +1,8 @@
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\bin\Debug\Variables.exe.config
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\bin\Debug\Variables.exe
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\bin\Debug\Variables.pdb
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\obj\Debug\Variables.exe
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\obj\Debug\Variables.pdb
+C:\Users\frkng\Desktop\GitHub\Testing\Variables\obj\Debug\Variables.exe.config
