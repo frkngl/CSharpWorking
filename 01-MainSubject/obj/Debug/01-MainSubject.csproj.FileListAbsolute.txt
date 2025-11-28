@@ -1,0 +1,8 @@
+C:\Users\frkng\source\repos\Testing\01-MainSubject\bin\Debug\01-MainSubject.exe.config
+C:\Users\frkng\source\repos\Testing\01-MainSubject\bin\Debug\01-MainSubject.exe
+C:\Users\frkng\source\repos\Testing\01-MainSubject\bin\Debug\01-MainSubject.pdb
+C:\Users\frkng\source\repos\Testing\01-MainSubject\obj\Debug\01-MainSubject.csproj.AssemblyReference.cache
+C:\Users\frkng\source\repos\Testing\01-MainSubject\obj\Debug\01-MainSubject.csproj.CoreCompileInputs.cache
+C:\Users\frkng\source\repos\Testing\01-MainSubject\obj\Debug\01-MainSubject.exe
+C:\Users\frkng\source\repos\Testing\01-MainSubject\obj\Debug\01-MainSubject.pdb
+C:\Users\frkng\source\repos\Testing\01-MainSubject\obj\Debug\01-MainSubject.exe.config
