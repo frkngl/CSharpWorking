@@ -85,6 +85,32 @@ namespace Variables
             //Console.WriteLine("Yolcu Adı: " + customerName + " - Yolcu Soyadı: " + customerSurname + " - Yolcu Telefon Numarası:" + customerPhoneNumber + " - Yolcu Maili: " + customerEmail + " - Yolcu Yaşadığı Şehir: " + customerCity + " - Yolcu İlçesi: " + customerDistrict);
             #endregion
 
+            #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
+            //int shoesPrice, computerPrice, chairPrice, tvPrice;
+            //shoesPrice = 1200;
+            //computerPrice = 27500;
+            //chairPrice = 750;
+            //tvPrice = 24500;
+
+            //int shoesCount, computerCount, chairCount, tvCount;
+            //Console.Write("Lütfen aldığınız ayakkabı sayısını giriniz: ");
+            //shoesCount = int.Parse(Console.ReadLine()); //Burada int.Parse() metodu ile string veri tipi tam sayıya dönüştürülüyor.
+
+            //Console.Write("Lütfen aldığınız bilgisayar sayısını giriniz: ");
+            //computerCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen aldığınız sandalye sayısını giriniz: ");
+            //chairCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen aldığınız televizyon sayısını giriniz: ");
+            //tvCount = int.Parse(Console.ReadLine());
+
+            //int totalPrice = shoesPrice * shoesCount + computerPrice * computerCount + chairPrice * chairCount + tvPrice * tvCount;
+            //Console.WriteLine("Toplam Ödemeniz Gereken Tutar: " + totalPrice + " TL");
+
+            //Console.Read();
+            #endregion
+
         }
     }
 }
