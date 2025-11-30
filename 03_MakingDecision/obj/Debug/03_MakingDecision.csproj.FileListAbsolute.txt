@@ -1,0 +1,8 @@
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
+C:\Users\frkng\Desktop\GitHub\Testing\03_MakingDecision\obj\Debug\03_MakingDecision.exe.config
