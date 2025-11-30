@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-MainSubject", "01-MainSubject\01-MainSubject.csproj", "{68478169-A6DB-45FD-904D-FFAFE6883562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{8C79C6EE-DB88-40B5-8252-4380AA25D2D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "Variables\02_Variables.csproj", "{8C79C6EE-DB88-40B5-8252-4380AA25D2D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
