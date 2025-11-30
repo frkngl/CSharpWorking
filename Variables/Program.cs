@@ -111,6 +111,34 @@ namespace Variables
             //Console.Read();
             #endregion
 
+            #region Klavyeden Ondalıklı Sayı İşlemleri
+
+            //double exam1, exam2, exam3;
+            //Console.Write("Lütfen 1. sınav notunuzu giriniz: ");
+            //exam1 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 2. sınav notunuzu giriniz: ");
+            //exam2 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 3. sınav notunuzu giriniz: ");
+            //exam3 = double.Parse(Console.ReadLine());
+
+            //double avarage = (exam1 + exam2 + exam3) / 3;
+            //Console.WriteLine ("Sınavların Ortalaması: " + avarage);
+
+            //Console.Read();
+            #endregion
+
+            #region Klavyeden Karakter Girişleri
+
+            //char gender;
+            //Console.Write("Lütfen cinsiyetinizi giriniz (E/K): ");
+            //gender = char.Parse(Console.ReadLine());
+            //Console.WriteLine("Girilen Cinsiyet: " + gender );
+            //Console.Read();
+
+            #endregion
+
         }
     }
 }
