@@ -297,6 +297,74 @@ namespace _03_MakingDecision
 
             #endregion
 
+            #region Switch Case
+
+            //Console.Write("Lütfen ay numarasını giriniz: ");
+            //int monthNumber = int.Parse(Console.ReadLine());
+
+            //switch (monthNumber)
+            //{
+            //    case 1: Console.WriteLine("Ocak ayındasınız."); break;
+            //    case 2: Console.WriteLine("Şubat ayındasınız."); break;
+            //    case 3: Console.WriteLine("Mart ayındasınız."); break;
+            //    case 4: Console.WriteLine("Nisan ayındasınız."); break;
+            //    case 5: Console.WriteLine("Mayıs ayındasınız."); break;
+            //    case 6: Console.WriteLine("Haziran ayındasınız."); break;
+            //    case 7: Console.WriteLine("Temmuz ayındasınız."); break;
+            //    case 8: Console.WriteLine("Ağustos ayındasınız."); break;
+            //    case 9: Console.WriteLine("Eylül ayındasınız."); break;
+            //    case 10: Console.WriteLine("Ekim ayındasınız."); break;
+            //    case 11: Console.WriteLine("Kasım ayındasınız."); break;
+            //    case 12: Console.WriteLine("Aralık ayındasınız."); break;
+            //    default: Console.WriteLine("Geçersiz ay numarası girdiniz."); break;
+            //}
+
+            //Console.Read();
+
+            #endregion
+
+            #region Switch Case Hesap Makinesi Uygulaması
+
+            //int number1, number2, result;
+            //char symbol;
+
+            //Console.Write("Lütfen 1. sayıyı giriniz: ");
+            //number1 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 2. sayıyı giriniz: ");
+            //number2 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen yapmak istediğiniz işlemi giriniz (+, -, *, /): ");
+            //symbol = char.Parse(Console.ReadLine());
+
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = number1 + number2;
+            //        Console.WriteLine("Toplama işlemi sonucu: " + result);
+            //        break;
+
+            //    case '-':
+            //        result = number1 - number2;
+            //        Console.WriteLine("Çıkarma işlemi sonucu: " + result);
+            //        break;
+
+            //    case '*':
+            //        result = number1 * number2;
+            //        Console.WriteLine("Çarpım işlemi sonucu: " + result);
+            //        break;
+
+            //    case '/':
+            //        result = number1 / number2;
+            //        Console.WriteLine("Bölme işlemi sonucu: " + result);
+            //        break;
+            //    default: Console.WriteLine("Geçersiz işlem simgesi girdiniz."); break;
+            //}
+
+            //Console.Read();
+
+            #endregion
+
         }
     }
 }
